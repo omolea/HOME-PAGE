@@ -421,6 +421,9 @@ nav a:hover {
   font-size: 1.2em;
   line-height: 1.6;
 }
+.center{
+  text-align: center;
+}
 
 /* Additional styling for responsiveness (adjust as needed) */
 @media screen and (max-width: 768px) {
