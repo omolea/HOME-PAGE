@@ -423,6 +423,8 @@ nav a:hover {
 }
 .center{
   text-align: center;
+  background-color: #396E94;
+  color: white;
 }
 
 /* Additional styling for responsiveness (adjust as needed) */
